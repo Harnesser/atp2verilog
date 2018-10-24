@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed Oct 24 21:58:21 2018
+[*]
+[dumpfile] "/home/harnesser/Training/atp2verilog/waves.vcd"
+[dumpfile_mtime] "Wed Oct 24 21:55:13 2018"
+[dumpfile_size] 2286
+[savefile] "/home/harnesser/Training/atp2verilog/big_sim.gtkw"
+[timestart] 0
+[size] 1224 546
+[pos] -1 -1
+*-16.522768 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] big_sim.
+[treeopen] big_sim.tb.
+[sst_width] 223
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 135
+@28
+big_sim.dut.SI0
+big_sim.dut.SI1
+big_sim.tb.SE
+big_sim.dut.CLK
+big_sim.tb.SO0
+big_sim.tb.SO0_expect
+big_sim.tb.SO1
+big_sim.tb.SO1_expect
+@22
+big_sim.dut.chain_0[7:0]
+@420
+big_sim.tb.chk_mismatches
+[pattern_trace] 1
+[pattern_trace] 0

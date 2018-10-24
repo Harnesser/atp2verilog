@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed Oct 24 21:05:53 2018
+[*]
+[dumpfile] "/home/harnesser/Training/atp2verilog/waves.vcd"
+[dumpfile_mtime] "Wed Oct 24 21:05:17 2018"
+[dumpfile_size] 1451
+[savefile] "/home/harnesser/Training/atp2verilog/restore.gtkw"
+[timestart] 0
+[size] 1635 747
+[pos] -1 -1
+*-15.066959 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] atp2verilog.
+[sst_width] 223
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 202
+@28
+atp2verilog.cycle
+atp2verilog.CLK
+atp2verilog.RSTN
+atp2verilog.SE
+atp2verilog.SI0
+atp2verilog.SI1
+atp2verilog.SO0
+atp2verilog.SO1
+atp2verilog.SO0_expect
+atp2verilog.SO1_expect
+[pattern_trace] 1
+[pattern_trace] 0

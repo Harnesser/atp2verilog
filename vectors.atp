@@ -1,0 +1,22 @@
+
+vectors ( $tset, CLK, SE, SI0, SI1, SO0, SO1, RSTN) {
+ > tset_load     0    0   0    0    X     X   0
+ > tset_load     1    0   0    0    X     X   1
+ > tset_load     1    1   0    1    X     X   1
+ > tset_load     1    1   0    1    X     X   1
+ > tset_load     1    1   1    1    X     X   1
+ > tset_load     1    1   1    1    X     X   1
+ > tset_load     1    1   0    0    X     X   1
+ > tset_load     1    1   0    0    X     X   1
+ > tset_load     1    1   1    0    X     X   1
+ > tset_load     1    1   1    0    X     X   1
+ > tset_load     1    0   0    0    X     X   1  ; /* scan load */
+ > tset_load     1    1   0    0    L     H   1
+ > tset_load     1    1   0    0    L     H   1
+ > tset_load     1    1   0    0    H     H   1
+ > tset_load     1    1   0    0    H     H   1
+ > tset_load     1    1   0    0    L     L   1
+ > tset_load     1    1   0    0    L     L   1
+ > tset_load     1    1   0    0    H     L   1
+ > tset_load     1    1   0    0    H     L   1
+}
